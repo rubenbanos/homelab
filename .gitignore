@@ -1,0 +1,7 @@
+# Archivos que nunca deben subirse
+.env
+*.key
+*.pem
+id_*
+*.secret
+*.log
