@@ -11,8 +11,9 @@ Rubén. Estoy cambiando de carrera hacia IT (soporte N1 → administración de s
 | Elemento | Estado |
 |---|---|
 | Portátil de estudio con Fedora 44 (GNOME) | En uso |
-| Servidor 24/7 (mini PC Lenovo ThinkCentre M900 Tiny) | En planificación, compra prevista en octubre de 2026 |
-| Equipos de oficina reciclados | Por revisar |
+| Servidor 24/7 (HP Compaq 6005 Pro reciclado) | En curso: funciona y BIOS configurada; faltan los discos y Ubuntu Server |
+| Segundo PC de oficina (HP Compaq 8000 Elite) | Aparcado: error de memoria (5 pitidos) |
+| Mini PC para virtualización (Proxmox, Active Directory) | Aplazado para más adelante |
 
 ## Proyectos
 
@@ -25,6 +26,7 @@ Cada proyecto tiene su carpeta y su README. Solo se documenta lo que he hecho de
 | [03-ssh-y-seguridad](03-ssh-y-seguridad/) | Acceso por SSH con claves y protección básica | Pendiente |
 | [04-docker](04-docker/) | Docker y servicios (Portainer, Uptime Kuma…) | Pendiente |
 | [05-redes-basicas](05-redes-basicas/) | IP, gateway y NAT comprobados en mi portátil | Terminado |
+| [06-servidor-hp-6005-pro](06-servidor-hp-6005-pro/) | Servidor 24/7 con un HP Compaq 6005 Pro reciclado: diagnóstico, CMOS y BIOS | En curso |
 
 ## Cómo documento cada proyecto
 
