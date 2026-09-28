@@ -24,6 +24,7 @@ Cada proyecto tiene su carpeta y su README. Solo se documenta lo que he hecho de
 | [02-pi-hole](02-pi-hole/) | Pi-hole: bloqueo de anuncios y DNS local | Pendiente |
 | [03-ssh-y-seguridad](03-ssh-y-seguridad/) | Acceso por SSH con claves y protección básica | Pendiente |
 | [04-docker](04-docker/) | Docker y servicios (Portainer, Uptime Kuma…) | Pendiente |
+| [05-redes-basicas](05-redes-basicas/) | IP, gateway y NAT comprobados en mi portátil | Terminado |
 
 ## Cómo documento cada proyecto
 
