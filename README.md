@@ -11,7 +11,7 @@ Rubén. Estoy cambiando de carrera hacia IT (soporte N1 → administración de s
 | Elemento | Estado |
 |---|---|
 | Portátil de estudio con Fedora 44 (GNOME) | En uso |
-| Servidor 24/7 (HP Compaq 6005 Pro reciclado) | En marcha (v1.3): Ubuntu Server por SSH, NAS Samba, firewall, SSH con llave y fail2ban. Docker con Portainer. Faltan copias y acceso remoto |
+| Servidor 24/7 (HP Compaq 6005 Pro reciclado) | En marcha (v1.5): Ubuntu Server por SSH, NAS Samba, firewall, SSH con llave y fail2ban. Docker con Portainer (solo local) y Uptime Kuma. Acceso remoto con Tailscale |
 | Segundo PC de oficina (HP Compaq 8000 Elite) | Aparcado: error de memoria (5 pitidos) |
 | Mini PC para virtualización (Proxmox, Active Directory) | Aplazado para más adelante |
 
